@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "productName": "3ce Velvet lip Tint",
+      "productImage": "admin/img/sp/a1.jpg",
+      "color": "Private",
+      "price": "150000",
+      "manufactory": "Japan",
+      "description": "Màu son hót và được yêu thích nhất hiên nay.",
+      "id": 2
+    },
+    {
+      "productName": "M.A.C",
+      "productImage": "admin/img/sp/a2.jpg",
+      "price": "245000",
+      "color": "Ruby Woo",
+      "manufactory": "Korea",
+      "description": "Dòng son nổi tiếng với tính châts lâu trôi màu.",
+      "id": 3
+    },
+    {
+      "productName": "Dior",
+      "productImage": "admin/img/sp/a3.jpg",
+      "color": "Rouge 999",
+      "price": "200000",
+      "manufactory": "Korea",
+      "description": "Son cao cấp, dòng son lì kết hợp sự quyến rũ khó cưỡng lại.",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "buingan93@gmail.com",
+      "password": "toilanguoimanhme123"
+    },
+    {
+      "id": "2",
+      "username": "buingan93+1@gmail.com",
+      "password": "toilanguoimanhme123"
+    }
+  ]
+}
